@@ -1,10 +1,10 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "High-performance load testing tool (k6 clone) on Java 25 & GraalVM",
   "homepage": "https://github.com/wilhg/lyocell",
   "license": "MIT",
-  "url": "https://github.com/wilhg/lyocell/releases/download/v0.3.2/lyocell-windows-amd64.exe",
-  "hash": "2592853478786eb0ce24e895923d7ed0a9e6ec13fabaeb7ca191e39b83f87af7",
+  "url": "https://github.com/wilhg/lyocell/releases/download/v0.3.3/lyocell-windows-amd64.exe",
+  "hash": "c757b86935054a7e47b66c69bd68b06758d2cf278d4e0f9eddd605c53eb33a92",
   "bin": "lyocell-windows-amd64.exe",
   "checkver": {
     "github": "https://github.com/wilhg/lyocell"
